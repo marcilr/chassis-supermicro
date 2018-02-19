@@ -1,0 +1,27 @@
+links.txt
+Created Mon Feb 19 13:53:37 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Chassis by Supermicro related links
+
+
+Links
+=====
+E5-2600v4 Platform Overview
+Formerly known as “Grantley Refresh”
+E5-2600v3 (Grantley) - 22nm
+E5-2600v4 (Grantley Refresh) - 14nm <===
+https://www.siliconmechanics.com/files/Intel-Xeon-E5-2600v4-Platform-Guide.pdf
+
+High-performance storage server
+Silicon Mechanics
+Based on Supermicro storage chassis 216BE1C-R920LPB, 216BE2C-R920LPB.
+https://www.siliconmechanics.com/i68833/2u-storage-server.php
+
+SuperChassis 216BE1C-R920LPB
+http://www.supermicro.com/products/chassis/2u/216/SC216BE1C-R920LPB
+
+SuperChassis 216BE2C-R920LPB
+https://www.supermicro.com/products/chassis/2U/216/SC216BE2C-R920LPB
+
