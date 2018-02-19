@@ -25,3 +25,6 @@ http://www.supermicro.com/products/chassis/2u/216/SC216BE1C-R920LPB
 SuperChassis 216BE2C-R920LPB
 https://www.supermicro.com/products/chassis/2U/216/SC216BE2C-R920LPB
 
+Supermicro 2.5" HDD/SSD Server & Storage Solutions
+https://www.supermicro.com/products/nfo/2_5HDD.cfm
+
