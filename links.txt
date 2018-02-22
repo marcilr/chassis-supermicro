@@ -8,6 +8,9 @@ Chassis by Supermicro related links
 
 Links
 =====
+2U SuperChassis 216
+http://www.supermicro.com/products/chassis/2U/?chs=216
+
 E5-2600v4 Platform Overview
 Formerly known as “Grantley Refresh”
 E5-2600v3 (Grantley) - 22nm
