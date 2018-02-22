@@ -5,8 +5,8 @@ Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
-CSE-216/
-  Supermicro CSE-216 2U chassis
+SC216/
+  Supermicro 2U SuperChassis 216
 
 links.txt
   Chassis by Supermicro related links
@@ -14,3 +14,7 @@ links.txt
 manifest
   Manifest for resync application
 
+SC216EL16-R1200LPB/
+  Supermicro SC216E16-R1200LPB, DP / UP, 24x 2.5" hot-swap.
+  SAS/SATA, 7x LP, 1200W Redundant (Gold Level)
+  
